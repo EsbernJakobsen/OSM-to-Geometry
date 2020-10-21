@@ -9,7 +9,6 @@ The second function plots a quick map of the locations of all the OSM features r
 
 
 #### Prerequisites
-The dependencies for this script are:
 - Python 3.6>
 - Pandas, Geopandas, Shapely
 - Contextily
